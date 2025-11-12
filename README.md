@@ -1,4 +1,9 @@
-## Hi there 👋
+# 👋 Hi, I'm Akshat Garg
+
+🚀 **Full Stack Developer | Game Enthusiast | AI Explorer**
+
+I love building interactive and intelligent systems — from **AI-powered web apps** 🧠 to **2D/3D indie games** 🎮.  
+Currently exploring **Agentic AI Systems** and **Frontend Magic ✨** with React + Next.js.
 
 <!--
 **Akshat7garg/Akshat7garg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
