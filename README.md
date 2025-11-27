@@ -7,12 +7,17 @@ Currently exploring **Agentic AI Systems** and **System-Scale Magic ✨** with *
 
 ---
 
+<!-- Lofi GIF -->
 <p align="center">
-  <img src="https://github.com/Akshat7garg/Akshat7garg/blob/main/lofi_room.gif" alt="Lofi coder in a night room setup working on a laptop" width="920" />
+  <img src="https://github.com/Akshat7garg/Akshat7garg/blob/main/lofi_room.gif" 
+       alt="Lofi developer coding in a cozy night room" 
+       width="920" />
 </p>
 
+<!-- Profile Visitors -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Akshat7garg&label=Profile%20views&color=0e75b6&style=flat" alt="Akshat7garg" />
+  <img src="https://komarev.com/ghpvc/?username=Akshat7garg&label=Profile%20Views&color=0e75b6&style=flat" 
+       alt="Profile views counter" />
 </p>
 
 ---
