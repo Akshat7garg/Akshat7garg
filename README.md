@@ -22,63 +22,43 @@ Currently exploring **Agentic AI Systems** and **System-Scale Magic ✨** with *
 
 ---
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="51" align="center"> A little more about me...  
+## 🧑‍💻 A little more about me...
 
 ```javascript
 const akshat = {
     pronouns: "He" | "Him",
-    code: ["TypeScript", "Javascript", "Python", "C#", "Java],
+    code: ["TypeScript", "Javascript", "Python", "C#", "Java"],
 
     askMeAbout: [
       "full-stack engineering",
       "devops & cloud infra",
-      "agentic AI systems",
-      "RAG pipelines",
-      "real-time apps",
-      "system design",
-      "2D/3D game development",
-      "2D/3D Modeling & animations"
+      "agentic AI + RAG pipelines",
+      "real-time systems",
+      "2D/3D game dev"
     ],
 
     technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", Angular],
-            css: ["Sass", "Tailwind"],
-            uiLibraries: ["Aceternity UI", "Shadcn", "Chakra UI"],
-        },
-        backEnd: {
-            js: ["Node", "Express", "Next.js API", "Hono"],
-            python: ["Flask"],
-        },
+        frontEnd: ["React", "Next.js", "Angular"],
+        backEnd: ["Node", "Express", "Next.js API", "Hono", "Flask"],
         devOps: ["Docker", "CI/CD", "Nginx", "GitHub Actions"],
-        cloud: ["Firebase", "Supabase", "AWS", "Google Cloud Platform],
+        cloud: ["Firebase", "Supabase", "AWS", "Google Cloud Platform"],
         databases: {
-            bases: ["PostgreSQL", "MongoDB", "MySQL", "Firebase", "Pinecone", "DataStax"],
-            orms: ["Prisma", "Mongoose"],
+            bases: ["PostgreSQL", "MongoDB", "MySQL", "Firebase", "Supabase", "Pinecone", "DataStax"],
+            orms: ["Prisma", "Mongoose"]
         },
         misc: ["Socket.IO", "REST APIs", "WebSockets", "WebRTC", "Cloud Functions"],
         aiAndRAG: ["LangChain.js", "Gemini APIs", "Vector DBs (Pinecone)", "RAG", "n8n"],
-        gameDev: {
-            engines: ["Unity (C#)"],
-            design: ["Blender 3D", "AdobeXD", "Krita 2D"],
-        },
+        gameDev: ["Unity (C#)", "Blender 3D", "Krita 2D"]
     },
 
-    architecture: {
-        frontEnd: ["SPA", "SSR"],
-        backEnd: ["microservices", "monolithic", "serverless"],
-        devOps: ["CloudFormation", "Serverless Framework"],
-        databases: ["Relational", "NoSQL", "In-memory"],
-    },
-
-    currentFocus: "Building system-scale AI products with agentic workflows",
-    funFact: "I break things to understand them — then rebuild them cleaner!"
+    currentFocus: "Engineering scalable AI systems powered by agentic workflows",
+    funFact: "My superpower? Converting caffeine into clean, production-ready code."
 };
 ```
 
 ---
 
-### <img src="https://media.giphy.com/media/uMaVlcNSxWl1F1mDb1/giphy.gif" width="51" align="center"> A Look at My Tech Toolbox...
+## 🛠️ A Look at My Tech Toolbox...
 
 <div align="center">
 
