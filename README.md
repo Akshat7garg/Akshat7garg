@@ -27,7 +27,7 @@ Currently exploring **Agentic AI Systems** and **System-Scale Magic ✨** with *
 ```javascript
 const akshat = {
     pronouns: "He" | "Him",
-    code: ["TypeScript", "Javascript", "Python", "C#", "Java"],
+    code: ["TypeScript", "Javascript", "Python", "C#", "Java", "Dart"],
 
     askMeAbout: [
       "full-stack engineering",
@@ -46,7 +46,7 @@ const akshat = {
             bases: ["PostgreSQL", "MongoDB", "MySQL", "Firebase", "Supabase", "Pinecone", "DataStax"],
             orms: ["Prisma", "Mongoose"]
         },
-        misc: ["Socket.IO", "REST APIs", "WebSockets", "WebRTC", "Cloud Functions"],
+        misc: ["Socket.IO", "REST APIs", "WebSockets", "WebRTC", "Cloud Functions", "Flutter"],
         aiAndRAG: ["LangChain.js", "Gemini APIs", "Vector DBs (Pinecone)", "RAG", "n8n"],
         gameDev: ["Unity (C#)", "Blender 3D", "Krita 2D"]
     },
@@ -62,56 +62,66 @@ const akshat = {
 
 <div align="center">
 
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=java" width="47" />
+  <img src="https://skillicons.dev/icons?i=js" width="47" />
+  <img src="https://skillicons.dev/icons?i=cs" width="47" />
+  <img src="https://skillicons.dev/icons?i=ts" width="47" />
+  <img src="https://skillicons.dev/icons?i=py" width="47" />
+  <img src="https://skillicons.dev/icons?i=dart" width="47" />
+
   <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031.svg?logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4.svg?logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699.svg?logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shadcn_UI-000000.svg?logo=shadcnui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chakra_UI-319795.svg?logo=chakraui&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html" width="47" />
+  <img src="https://skillicons.dev/icons?i=css" width="47" />
+  <img src="https://skillicons.dev/icons?i=react" width="47" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="47" />
+  <img src="https://skillicons.dev/icons?i=angular" width="47" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="47" />
+  <img src="https://skillicons.dev/icons?i=sass" width="47" />
+
+  <!-- UI Libraries -->
+  <img src="https://skillicons.dev/icons?i=figma" width="47" />
+  <img src="https://skillicons.dev/icons?i=xd" width="47" />
 
   <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000.svg?logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hono-E36002.svg?logo=hono&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="47" />
+  <img src="https://skillicons.dev/icons?i=express" width="47" />
+  <img src="https://skillicons.dev/icons?i=flask" width="47" />
 
   <!-- DevOps -->
-  <img src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF.svg?logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639.svg?logo=nginx&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=docker" width="47" />
+  <img src="https://skillicons.dev/icons?i=nginx" width="47" />
+  <img src="https://skillicons.dev/icons?i=githubactions" width="47" />
 
   <!-- Cloud -->
-  <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E.svg?logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4.svg?logo=google-cloud&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=aws" width="47" />
+  <img src="https://skillicons.dev/icons?i=azure" width="47" />
+  <img src="https://skillicons.dev/icons?i=gcp" width="47" />
 
   <!-- Databases -->
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinecone-5E5BFF.svg?logo=pinecone&logoColor=white" />
-  <img src="https://img.shields.io/badge/DataStax-000000.svg?logo=apache-cassandra&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748.svg?logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mongoose-880000.svg?logo=mongoose&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=firebase" width="47" />
+  <img src="https://skillicons.dev/icons?i=supabase" width="47" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="47" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="47" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="47" />
+  <img src="https://skillicons.dev/icons?i=prisma" width="47" />
+  
+  <!-- misc -->
+  <img src="https://skillicons.dev/icons?i=flutter" width="47" />
+  <img src="https://skillicons.dev/icons?i=redux" width="47" />
+  <img src="https://skillicons.dev/icons?i=postman" width="47" />
+  <img src="https://skillicons.dev/icons?i=ai" width="47" />
 
-  <!-- AI & RAG -->
-  <img src="https://img.shields.io/badge/LangChain.js-1C1C1C.svg?logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini_API-4285F4.svg?logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4AAA.svg?logo=n8n&logoColor=white" />
-
-  <!-- Misc -->
-  <img src="https://img.shields.io/badge/Socket.IO-010101.svg?logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebRTC-333333.svg?logo=webrtc&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-005571.svg?logo=fastapi&logoColor=white" />
+  <!-- Realtime & Networking -->
+  <img src="https://skillicons.dev/icons?i=fastapi" width="47" />
+  <img src="https://skillicons.dev/icons?i=git" width="47" />
 
   <!-- Game Dev -->
-  <img src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-F5792A.svg?logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Krita-3BABFF.svg?logo=krita&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=unreal" width="47" />
+  <img src="https://skillicons.dev/icons?i=unity" width="47" />
+  <img src="https://skillicons.dev/icons?i=blender" width="47" />
 
 </div>
+
 
 ---
