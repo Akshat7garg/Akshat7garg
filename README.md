@@ -48,7 +48,7 @@ const akshat = {
         },
         misc: ["Socket.IO", "REST APIs", "WebSockets", "WebRTC", "Cloud Functions", "Flutter"],
         aiAndRAG: ["LangChain.js", "Gemini APIs", "Vector DBs (Pinecone)", "RAG", "n8n"],
-        gameDev: ["Unity (C#)", "Blender 3D", "Krita 2D"]
+        gameDev: ["Unity (C#)", "Unreal (Visual Scripting)", "Blender 3D", "Krita 2D"]
     },
 
     currentFocus: "Engineering scalable AI systems powered by agentic workflows",
@@ -106,7 +106,7 @@ const akshat = {
   <img src="https://skillicons.dev/icons?i=mysql" width="47" />
   <img src="https://skillicons.dev/icons?i=prisma" width="47" />
   
-  <!-- misc -->
+  <!-- Misc -->
   <img src="https://skillicons.dev/icons?i=flutter" width="47" />
   <img src="https://skillicons.dev/icons?i=redux" width="47" />
   <img src="https://skillicons.dev/icons?i=postman" width="47" />
@@ -123,5 +123,46 @@ const akshat = {
 
 </div>
 
-
 ---
+
+## 📫 A Quick Path to Connect with Me...
+
+<table align="center"> 
+  <tr> 
+    <!-- Gmail -->
+    <td align="center"> 
+      <a href="mailto:workofakshat@gmail.com" target="_blank" > 
+        <img src="https://skillicons.dev/icons?i=gmail" width="47">
+        <br/> Email 
+      </a> 
+    </td> 
+    <!-- LinkedIn -->
+    <td align="center"> 
+      <a href="https://www.linkedin.com/in/akshat-garg-136b56293"target="_blank" > 
+        <img src="https://skillicons.dev/icons?i=linkedin" width="47">
+        <br/>LinkedIn 
+      </a> 
+    </td> 
+    <!-- Portfolio -->
+    <td align="center">
+      <a href="https://akshat-nine.vercel.app"target="_blank" > 
+        <img src="https://skillicons.dev/icons?i=vite" width="47">
+        <br/>Portfolio 
+      </a> 
+    </td> 
+    <!-- LeetCode -->
+    <td align="center"> 
+      <a href="https://leetcode.com/u/Akshat7garg"target="_blank" > 
+        <img src="https://skillicons.dev/icons?i=htmx" width="47">
+        <br/>LeetCode 
+      </a> 
+    </td> 
+    <!-- Twitter (X) -->
+    <td align="center"> 
+      <a href="https://x.com/AkshatGarg44477"target="_blank" > 
+        <img src="https://skillicons.dev/icons?i=twitter" width="47">
+        <br/>Twitter 
+      </a> 
+    </td> 
+  </tr> 
+</table>
