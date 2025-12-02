@@ -131,35 +131,35 @@ const akshat = {
   <tr> 
     <!-- Gmail -->
     <td align="center"> 
-      <a href="mailto:workofakshat@gmail.com" target="_blank" > 
-        <img src="https://skillicons.dev/icons?i=gmail" width="47">
-        <br/> Email 
-      </a> 
+      <a href="mailto:workofakshat@gmail.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://skillicons.dev/icons?i=gmail" width="47" />
+        <br/> Email
+      </a>
     </td> 
     <!-- LinkedIn -->
     <td align="center"> 
-      <a href="https://www.linkedin.com/in/akshat-garg-136b56293"target="_blank" > 
+      <a href="https://www.linkedin.com/in/akshat-garg-136b56293" target="_blank" rel="noopener noreferrer" > 
         <img src="https://skillicons.dev/icons?i=linkedin" width="47">
         <br/>LinkedIn 
       </a> 
     </td> 
     <!-- Portfolio -->
     <td align="center">
-      <a href="https://akshat-nine.vercel.app"target="_blank" > 
+      <a href="https://akshat-nine.vercel.app" target="_blank" rel="noopener noreferrer" > 
         <img src="https://skillicons.dev/icons?i=vite" width="47">
         <br/>Portfolio 
       </a> 
     </td> 
     <!-- LeetCode -->
     <td align="center"> 
-      <a href="https://leetcode.com/u/Akshat7garg"target="_blank" > 
+      <a href="https://leetcode.com/u/Akshat7garg" target="_blank" rel="noopener noreferrer" > 
         <img src="https://skillicons.dev/icons?i=htmx" width="47">
         <br/>LeetCode 
       </a> 
     </td> 
     <!-- Twitter (X) -->
     <td align="center"> 
-      <a href="https://x.com/AkshatGarg44477"target="_blank" > 
+      <a href="https://x.com/AkshatGarg44477" target="_blank" rel="noopener noreferrer" > 
         <img src="https://skillicons.dev/icons?i=twitter" width="47">
         <br/>Twitter 
       </a> 
