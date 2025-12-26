@@ -145,7 +145,7 @@ const akshat = {
     </td> 
     <!-- Portfolio -->
     <td align="center">
-      <a href="https://akshat-nine.vercel.app" target="_blank" rel="noopener noreferrer" > 
+      <a href="https://akshatgarg.vercel.app" target="_blank" rel="noopener noreferrer" > 
         <img src="https://skillicons.dev/icons?i=vite" width="47">
         <br/>Portfolio 
       </a> 
