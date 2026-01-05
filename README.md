@@ -27,7 +27,7 @@ Currently exploring **Agentic AI Systems** and **System-Scale Magic ✨** with *
 ```javascript
 const akshat = {
     pronouns: "He" | "Him",
-    code: ["TypeScript", "Javascript", "Python", "C#", "Java", "Dart"],
+    code: ["TypeScript", "Javascript", "SQL", "C#", "Java", "Dart"],
 
     askMeAbout: [
       "full-stack engineering",
