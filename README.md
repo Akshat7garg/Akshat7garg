@@ -131,7 +131,7 @@ const akshat = {
   <tr> 
     <!-- Gmail -->
     <td align="center"> 
-      <a href="mailto:workofakshat@gmail.com" target="_blank" rel="noopener noreferrer">
+      <a href="mailto:akshatgarg.dev@gmail.com" target="_blank" rel="noopener noreferrer">
         <img src="https://skillicons.dev/icons?i=gmail" width="47" />
         <br/> Email
       </a>
