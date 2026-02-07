@@ -138,7 +138,7 @@ const akshat = {
     </td> 
     <!-- LinkedIn -->
     <td align="center"> 
-      <a href="https://www.linkedin.com/in/akshat-garg-136b56293" target="_blank" rel="noopener noreferrer" > 
+      <a href="https://www.linkedin.com/in/akshatgarg-dev" target="_blank" rel="noopener noreferrer" > 
         <img src="https://skillicons.dev/icons?i=linkedin" width="47">
         <br/>LinkedIn 
       </a> 
