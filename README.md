@@ -159,7 +159,7 @@ const akshat = {
     </td> 
     <!-- Twitter (X) -->
     <td align="center"> 
-      <a href="https://x.com/AkshatGarg44477" target="_blank" rel="noopener noreferrer" > 
+      <a href="https://x.com/akshatgarg_dev" target="_blank" rel="noopener noreferrer" > 
         <img src="https://skillicons.dev/icons?i=twitter" width="47">
         <br/>Twitter 
       </a> 
