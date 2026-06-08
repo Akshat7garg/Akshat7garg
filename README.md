@@ -3,7 +3,7 @@
 **🚀 Full Stack & DevOps | Agentic AI & RAG | Indie Game Dev (2D/3D)**
 
 I love building interactive and intelligent systems — from **AI-powered web apps** 🧠 to **2D/3D indie games** 🎮.  
-Currently exploring **Agentic AI Systems** and **System-Scale Magic ✨** with **Cloud Infra & CI/CD**.
+Currently exploring **Agentic AI Systems** and **Distributed Systems ✨** with **Cloud Infra & CI/CD**.
 
 ---
 
@@ -27,27 +27,25 @@ Currently exploring **Agentic AI Systems** and **System-Scale Magic ✨** with *
 ```javascript
 const akshat = {
     pronouns: "He" | "Him",
-    code: ["TypeScript", "Javascript", "SQL", "C#", "Java", "Dart"],
+    languages: ["TypeScript", "Javascript", "Java", "SQL", "C#"],
 
     askMeAbout: [
       "full-stack engineering",
-      "devops & cloud infra",
+      "microservices & distributed systems",
       "agentic AI + RAG pipelines",
       "real-time systems",
       "2D/3D game dev"
     ],
 
     technologies: {
-        frontEnd: ["React", "Next.js", "Angular"],
-        backEnd: ["Node", "Express", "Next.js API", "Hono", "Flask"],
-        devOps: ["Docker", "CI/CD", "Nginx", "GitHub Actions"],
-        cloud: ["Firebase", "Supabase", "AWS", "Google Cloud Platform"],
+        webDev: ["Next.js", "React", "Node.js", "Express", "Zustand", "Tailwind CSS"],
+        cloudAndTools: ["Docker", "GitHub Actions", "AWS S3", "CI/CD", "Jest", "Git"],
         databases: {
-            bases: ["PostgreSQL", "MongoDB", "MySQL", "Firebase", "Supabase", "Pinecone", "DataStax"],
+            bases: ["PostgreSQL", "MongoDB", "Redis", "Firebase", "Pinecone", "DataStax"],
             orms: ["Prisma", "Mongoose"]
         },
-        misc: ["Socket.IO", "REST APIs", "WebSockets", "WebRTC", "Cloud Functions", "Flutter"],
-        aiAndRAG: ["LangChain.js", "Gemini APIs", "Vector DBs (Pinecone)", "RAG", "n8n"],
+        misc: ["REST APIs", "WebSockets", "WebRTC", "WebGL", "GLSL", "Microservices"],
+        aiAndRAG: ["LangChain.js", "Ollama", "Gemini APIs", "Vector DBs (Pinecone)", "RAG"],
         gameDev: ["Unity (C#)", "Unreal (Visual Scripting)", "Blender 3D", "Krita 2D"]
     },
 
@@ -62,64 +60,46 @@ const akshat = {
 
 <div align="center">
 
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=java" width="47" />
-  <img src="https://skillicons.dev/icons?i=js" width="47" />
-  <img src="https://skillicons.dev/icons?i=cs" width="47" />
-  <img src="https://skillicons.dev/icons?i=ts" width="47" />
-  <img src="https://skillicons.dev/icons?i=py" width="47" />
-  <img src="https://skillicons.dev/icons?i=dart" width="47" />
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=java" width="47" />
+<img src="https://skillicons.dev/icons?i=js" width="47" />
+<img src="https://skillicons.dev/icons?i=cs" width="47" />
 
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html" width="47" />
-  <img src="https://skillicons.dev/icons?i=css" width="47" />
-  <img src="https://skillicons.dev/icons?i=react" width="47" />
-  <img src="https://skillicons.dev/icons?i=nextjs" width="47" />
-  <img src="https://skillicons.dev/icons?i=angular" width="47" />
-  <img src="https://skillicons.dev/icons?i=tailwind" width="47" />
-  <img src="https://skillicons.dev/icons?i=sass" width="47" />
+ <!-- Core Stack -->
+<img src="https://skillicons.dev/icons?i=nextjs" width="47" />
+<img src="https://skillicons.dev/icons?i=nodejs" width="47" />
+<img src="https://skillicons.dev/icons?i=ts" width="47" />
+<img src="https://skillicons.dev/icons?i=postgres" width="47" />
+<img src="https://skillicons.dev/icons?i=docker" width="47" />
+<img src="https://skillicons.dev/icons?i=aws" width="47" />
 
-  <!-- UI Libraries -->
-  <img src="https://skillicons.dev/icons?i=figma" width="47" />
-  <img src="https://skillicons.dev/icons?i=xd" width="47" />
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=react" width="47" />
+<img src="https://skillicons.dev/icons?i=tailwind" width="47" />
+<img src="https://skillicons.dev/icons?i=html" width="47" />
+<img src="https://skillicons.dev/icons?i=css" width="47" />
+<img src="https://skillicons.dev/icons?i=redux" width="47" />
 
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs" width="47" />
-  <img src="https://skillicons.dev/icons?i=express" width="47" />
-  <img src="https://skillicons.dev/icons?i=flask" width="47" />
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=express" width="47" />
+<img src="https://skillicons.dev/icons?i=redis" width="47" />
+<img src="https://skillicons.dev/icons?i=firebase" width="47" />
+<img src="https://skillicons.dev/icons?i=mongodb" width="47" />
+<img src="https://skillicons.dev/icons?i=prisma" width="47" />
 
-  <!-- DevOps -->
-  <img src="https://skillicons.dev/icons?i=docker" width="47" />
-  <img src="https://skillicons.dev/icons?i=nginx" width="47" />
-  <img src="https://skillicons.dev/icons?i=githubactions" width="47" />
+<!-- DevOps & Cloud -->
+<img src="https://skillicons.dev/icons?i=githubactions" width="47" />
+<img src="https://skillicons.dev/icons?i=git" width="47" />
+<img src="https://skillicons.dev/icons?i=jest" width="47" />
+<img src="https://skillicons.dev/icons?i=postman" width="47" />
 
-  <!-- Cloud -->
-  <img src="https://skillicons.dev/icons?i=aws" width="47" />
-  <img src="https://skillicons.dev/icons?i=azure" width="47" />
-  <img src="https://skillicons.dev/icons?i=gcp" width="47" />
+<!-- Design -->
+<img src="https://skillicons.dev/icons?i=figma" width="47" />
 
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=firebase" width="47" />
-  <img src="https://skillicons.dev/icons?i=supabase" width="47" />
-  <img src="https://skillicons.dev/icons?i=postgres" width="47" />
-  <img src="https://skillicons.dev/icons?i=mongodb" width="47" />
-  <img src="https://skillicons.dev/icons?i=mysql" width="47" />
-  <img src="https://skillicons.dev/icons?i=prisma" width="47" />
-  
-  <!-- Misc -->
-  <img src="https://skillicons.dev/icons?i=flutter" width="47" />
-  <img src="https://skillicons.dev/icons?i=redux" width="47" />
-  <img src="https://skillicons.dev/icons?i=postman" width="47" />
-  <img src="https://skillicons.dev/icons?i=ai" width="47" />
-
-  <!-- Realtime & Networking -->
-  <img src="https://skillicons.dev/icons?i=fastapi" width="47" />
-  <img src="https://skillicons.dev/icons?i=git" width="47" />
-
-  <!-- Game Dev -->
-  <img src="https://skillicons.dev/icons?i=unreal" width="47" />
-  <img src="https://skillicons.dev/icons?i=unity" width="47" />
-  <img src="https://skillicons.dev/icons?i=blender" width="47" />
+<!-- Game Development -->
+<img src="https://skillicons.dev/icons?i=unity" width="47" />
+<img src="https://skillicons.dev/icons?i=unreal" width="47" />
+<img src="https://skillicons.dev/icons?i=blender" width="47" />
 
 </div>
 
