@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Akshat Garg</h1>
 
-**🚀 Full Stack & DevOps | Agentic AI & RAG | Indie Game Dev (2D/3D)**
+**🚀 Full Stack Engineering | Agentic AI & RAG | Indie Game Dev (2D/3D)**
 
 I love building interactive and intelligent systems — from **AI-powered web apps** 🧠 to **2D/3D indie games** 🎮.  
 Currently exploring **Agentic AI Systems** and **Distributed Systems ✨** with **Cloud Infra & CI/CD**.
@@ -22,12 +22,12 @@ Currently exploring **Agentic AI Systems** and **Distributed Systems ✨** with 
 
 ---
 
-## 🧑‍💻 A little more about me...
+## 🧑‍💻 A Little More About Me...
 
 ```javascript
 const akshat = {
     pronouns: "He" | "Him",
-    languages: ["TypeScript", "Javascript", "Java", "SQL", "C#"],
+    languages: ["TypeScript", "JavaScript", "Java", "SQL", "C#"],
 
     askMeAbout: [
       "full-stack engineering",
@@ -44,7 +44,7 @@ const akshat = {
             bases: ["PostgreSQL", "MongoDB", "Redis", "Firebase", "Pinecone", "DataStax"],
             orms: ["Prisma", "Mongoose"]
         },
-        misc: ["REST APIs", "WebSockets", "WebRTC", "WebGL", "GLSL", "Microservices"],
+        misc: ["REST APIs", "Microservices", "WebSockets", "WebRTC", "WebGL", "OpenGL Shading Language (GLSL)"],
         aiAndRAG: ["LangChain.js", "Ollama", "Gemini APIs", "Vector DBs (Pinecone)", "RAG"],
         gameDev: ["Unity (C#)", "Unreal (Visual Scripting)", "Blender 3D", "Krita 2D"]
     },
@@ -124,10 +124,16 @@ const akshat = {
       </a> 
     </td> 
     <!-- Portfolio -->
-    <td align="center">
+    <!-- <td align="center">
       <a href="https://akshatgarg.vercel.app" target="_blank" rel="noopener noreferrer" > 
         <img src="https://skillicons.dev/icons?i=vite" width="47">
         <br/>Portfolio 
+      </a> 
+    </td>  -->
+    <td align="center">
+      <a href="https://drive.google.com/file/d/1tl2OIho5dtTGexwCUbEzOPVOb1K-Gpe0/view" target="_blank" rel="noopener noreferrer" > 
+        <img src="https://skillicons.dev/icons?i=vite" width="47">
+        <br/>Resume 
       </a> 
     </td> 
     <!-- LeetCode -->
